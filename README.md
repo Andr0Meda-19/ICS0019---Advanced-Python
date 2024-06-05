@@ -1,3 +1,5 @@
+# Web API and desktop GUI in Python
+
 ### Task:
 
 1) Create SQLite database DINERS, with table CANTEEN
